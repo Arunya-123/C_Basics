@@ -25,6 +25,9 @@ int main(){
       }
       while (num<100);
 
+    for (num=1;num>10;num++){
+        printf("%d\n", num);
+    }
     
     return 0;
 }
