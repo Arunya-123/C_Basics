@@ -11,6 +11,8 @@ int main(){
         printf("hai");
     }
     (age>=18)? printf("u r allowed"):printf(" u are not allowed");
+    
+    /* loop statement/*
 
     while (num<100){
         printf("hai\n");
